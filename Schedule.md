@@ -1,12 +1,16 @@
-# Spherical Robot
+# Table Tennis Lauching Mechine
 
 ## Duration: 9th Jul ~ 17th Jul
 
 ## Time Line
 
-## Components Needed
+- Started: 10 Jul
+    - Build a lauching mechine
+    - 
+- Mid-term: 14 Jul
 
-## Structure Design
+- Final-term: 18 Jul
+
 
 ## Hardware Design
 
